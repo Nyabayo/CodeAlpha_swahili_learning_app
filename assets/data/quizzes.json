@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "question": "How many letters are there in the Swahili alphabet?",
+      "options": ["26", "24", "25", "23"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "2",
+      "question": "What is the Swahili word for 'Thank you'?",
+      "options": ["Jambo", "Kwaheri", "Asante", "Ndiyo"],
+      "correctOptionIndex": 2
+    }
+  ]
+  
